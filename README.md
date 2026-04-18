@@ -1,2 +1,2 @@
-# sidcashgone.github.io
-A link to my website.
+# Hello!
+This is a [link](https://sidcashgone.github.io/) to my website.
