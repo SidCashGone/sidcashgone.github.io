@@ -1,4 +1,11 @@
-Hello!
+---
+permalink: /
+title: "Hello!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 **Document located in  _pages/about.md in case I need to edit later.**
 
