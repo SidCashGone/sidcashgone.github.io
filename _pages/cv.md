@@ -11,27 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S in Applied Mathematics & Statistics, Stony Brook University, Expected 2028
+* B.A in Mathematics, Stony Brook University, Expected 2028
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025 - Present: Research at Blockchain Business Lab
+  * Multi-Agent Alpha Miner for Crypto
+  * Duties includes: Back tested a trading engine by analyzing 1-year historical data of the top 100 performing cryptos through CoinMarketCap, storing the normalized data and enabling a quality report to be retrieved from an online database when used for training the agent.
+  * Supervisor: Professor Danling Jiang
+ 
+* Fall 2024 - Spring 2026: Fundamental Research at Fourier Fund of Stony Brook University
+  * Led a team under the Consumer Staples & Discretionary sector, going over the fundamental valuation metrics of companies, distributing the task efficiently amongst them to go over financial metrics carefully.
+  * Forecasted the trends and growth of the stock market, focusing on companies within the Tech Sector, such as Microsoft and Qualcomm. Plotted a DCF Model for Qualcomm using past 5 year’s income, giving an average of 11.38% WACC returns after adjusting for 13.00% tax rates.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Fall 2025 - Spring 2026: Cashier at Stop & Shop
+  * Processed the movement of customers' purchases of a variety of products in a timely manner, handling a multitude of transaction methods as necessary while packing the items neatly.
+  * Managed the back end of the store, compiling online orders from customers, retrieving items from stock and packaging them in a careful manner prior to being handed on to facilitate customer movement.
+
 Skills
 ======
 * Skill 1
@@ -41,24 +39,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Subcategory for Quant projects.
+ 
