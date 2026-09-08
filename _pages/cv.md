@@ -18,8 +18,8 @@ Work experience
 ======
 * Fall 2025 - Present: Research at Blockchain Business Lab
   * Multi-Agent Alpha Miner for Crypto
-  * Duties includes: Back tested a trading engine by analyzing 1-year historical data of the top 100 performing cryptos through CoinMarketCap, storing the normalized data and enabling a quality report to be retrieved from an online database when used for training the agent.
-  * Supervisor: Professor Danling Jiang
+  * Back tested a trading engine by analyzing 1-year historical data of the top 100 performing cryptos through CoinMarketCap, storing the normalized data and enabling a quality report to be retrieved from an online database when used for training the agent.
+  * Implemented a Data/News crawler, ranking sentiment on a [0,1] scale and using it as part of the weights to train the agent to test a strategy of the top 100 cryptos’ performance against a portfolio based on Bitcoin and Ethereum alone.
  
 * Fall 2024 - Spring 2026: Fundamental Research at Fourier Fund of Stony Brook University
   * Led a team under the Consumer Staples & Discretionary sector, going over the fundamental valuation metrics of companies, distributing the task efficiently amongst them to go over financial metrics carefully.
@@ -32,14 +32,18 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming Languages:
+* Python (Numpy, Pandas, Matplotlib, SciKit, YFinance)
+* Java
+* MATLAB
+* SQL
+
+Tools
+* Microsoft Office 365 Tools
+* LaTeX
+* Jupyter Notebook, Git & GitHub
 
 Projects
 ======
-* Subcategory for Quant projects.
+* Refer back to Portfolio section for Projects.
  
