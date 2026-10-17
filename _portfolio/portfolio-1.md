@@ -1,6 +1,6 @@
 ---
 title: "Comparing Black-Scholes with Numerical Methods"
-excerpt: "_Projection of Model_ <br/><img src='/imagesBS_Euro.png'>"
+excerpt: "_Projection of Model_ <br/><img src='/images/BS_Euro.png'>"
 collection: portfolio
 ---
 
