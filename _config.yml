@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sid T"
@@ -25,7 +25,7 @@ author:
   avatar           : "pfp.jpg"
   name             : "Sid Thapa"
   pronouns         : "He/Him" 
-  bio              : "Inverse Right-hander  "
+  bio              : "Inverse Right-hander."
   location         : "Queens, NYC"
   employer         : "Stony Brook University"
   uri              : # URL
@@ -39,8 +39,8 @@ author:
   
   # Social media
   instagram        : "__Sidzzzz__"
-  linkedin         : # Username
-  spotify          : # URL
+  linkedin         : "Sidhant Thapa"
+  spotify          : https://open.spotify.com/user/wr4yu7f1nw1i8lbi8diuasgop
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
