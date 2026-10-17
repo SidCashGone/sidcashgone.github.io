@@ -1,7 +1,7 @@
 ---
 title: "Comparing Black-Scholes with Numerical Methods"
-excerpt: "Projection of Model <br/><img src='/images/500x300.png'>"
+excerpt: "_Projection of Model_ <br/><img src='/imagesBS_Euro.png'>"
 collection: portfolio
 ---
 
-Test to see if the Portfolio hyperlink can be seen from the other page.
+Main Portfolio can be seen at: [Black_Scholes](https://github.com/SidCashGone/Quant_Projs/blob/main/Black_Scholes/BS_Vs_American.ipynb)
